@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Setup lxc on debian wheezy
+comments: true
 categories: jekyll updates
 ---
 # How to setup lxc on debian wheezy
